@@ -1,0 +1,684 @@
+{\rtf1\ansi\ansicpg1251\deff0\deflang1049{\fonttbl{\f0\fnil MS Sans Serif;}{\f1\fnil\fcharset204 MS Sans Serif;}}
+\viewkind4\uc1\pard\f0\fs16 NetWORKS Network File
+\par Number of nodes: 25
+\par Number of last node: 26
+\par Number of base node: 0
+\par Transformers number: 4
+\par Wires number: 27
+\par Basis voltage: 220
+\par -------------
+\par Nodes description:
+\par \tab Name: \f1\'cf\'d1 \'cf\'f0\'ee\'e5\'ea\'f2\'e8\'f0\'f3\'e5\'ec\'e0\'ff
+\par \f0\tab Basis node: 1
+\par \tab Fixed voltage: 0
+\par \tab Voltage: 0
+\par \tab P: 0
+\par \tab Q: 0
+\par \tab CircleTag: 0
+\par \tab CircleLeft: 27
+\par \tab CircleTop: 180
+\par \tab Name: \f1\'cf\'d1 \'c7\'e0\'e2\'ee\'e4\'ee\'f3\'ea\'ee\'e2\'f1\'ea 220
+\par \f0\tab Basis node: 0
+\par \tab Fixed voltage: 0
+\par \tab Voltage: 0
+\par \tab P: 0
+\par \tab Q: 0
+\par \tab CircleTag: 2
+\par \tab CircleLeft: 136
+\par \tab CircleTop: 327
+\par \tab Name: \f1\'cf\'d1 \'c7\'e0\'e2\'ee\'e4\'ee\'f3\'ea\'ee\'e2\'f1\'ea 110
+\par \f0\tab Basis node: 0
+\par \tab Fixed voltage: 0
+\par \tab Voltage: 0
+\par \tab P: 0
+\par \tab Q: 0
+\par \tab CircleTag: 3
+\par \tab CircleLeft: 93
+\par \tab CircleTop: 481
+\par \tab Name: \f1\'cf\'d1 \'c3\'ee\'eb\'fb\'f8\'ec\'e0\'ed\'ee\'e2\'ee 220
+\par \f0\tab Basis node: 0
+\par \tab Fixed voltage: 0
+\par \tab Voltage: 0
+\par \tab P: 0
+\par \tab Q: 0
+\par \tab CircleTag: 4
+\par \tab CircleLeft: 429
+\par \tab CircleTop: 310
+\par \tab Name: \f1\'cf\'d1 \'c3\'ee\'eb\'fb\'f8\'ec\'e0\'ed\'ee\'e2\'ee 110
+\par \f0\tab Basis node: 0
+\par \tab Fixed voltage: 0
+\par \tab Voltage: 0
+\par \tab P: 0
+\par \tab Q: 0
+\par \tab CircleTag: 5
+\par \tab CircleLeft: 443
+\par \tab CircleTop: 474
+\par \tab Name: \f1\'cf\'d1 \'c2\'e8\'f2\'ff\'e7\'fc 220
+\par \f0\tab Basis node: 0
+\par \tab Fixed voltage: 0
+\par \tab Voltage: 0
+\par \tab P: 0
+\par \tab Q: 0
+\par \tab CircleTag: 6
+\par \tab CircleLeft: 627
+\par \tab CircleTop: 180
+\par \tab Name: \f1\'cf\'d1 \'c2\'e8\'f2\'ff\'e7\'fc 110
+\par \f0\tab Basis node: 0
+\par \tab Fixed voltage: 0
+\par \tab Voltage: 0
+\par \tab P: 0
+\par \tab Q: 0
+\par \tab CircleTag: 7
+\par \tab CircleLeft: 625
+\par \tab CircleTop: 330
+\par \tab Name: \f1\'cf\'d1 \'c8\'f8\'e8\'ec 220
+\par \f0\tab Basis node: 0
+\par \tab Fixed voltage: 0
+\par \tab Voltage: 0
+\par \tab P: 0
+\par \tab Q: 0
+\par \tab CircleTag: 8
+\par \tab CircleLeft: 857
+\par \tab CircleTop: 270
+\par \tab Name: \f1\'cf\'d1 \'c8\'f8\'e8\'ec 110
+\par \f0\tab Basis node: 0
+\par \tab Fixed voltage: 0
+\par \tab Voltage: 0
+\par \tab P: 0
+\par \tab Q: 0
+\par \tab CircleTag: 9
+\par \tab CircleLeft: 864
+\par \tab CircleTop: 442
+\par \tab Name: \f1\'cf\'d1 \'d3\'ea\'ee\'e2\'ee
+\par \f0\tab Basis node: 0
+\par \tab Fixed voltage: 0
+\par \tab Voltage: 0
+\par \tab P: 0
+\par \tab Q: 0
+\par \tab CircleTag: 10
+\par \tab CircleLeft: 234
+\par \tab CircleTop: 568
+\par \tab Name: \f1\'cf\'d1 \'c1\'f0\'e8\'e3\'e0\'e4\'ed\'e0\'ff
+\par \f0\tab Basis node: 0
+\par \tab Fixed voltage: 0
+\par \tab Voltage: 0
+\par \tab P: 0
+\par \tab Q: 0
+\par \tab CircleTag: 11
+\par \tab CircleLeft: 168
+\par \tab CircleTop: 729
+\par \tab Name: \f1\'cf\'d1 \'d1\'e0\'e4\'ee\'e2\'e0\'ff
+\par \f0\tab Basis node: 0
+\par \tab Fixed voltage: 0
+\par \tab Voltage: 0
+\par \tab P: 0
+\par \tab Q: 0
+\par \tab CircleTag: 12
+\par \tab CircleLeft: 294
+\par \tab CircleTop: 851
+\par \tab Name: \f1\'cf\'d1 \'ca\'ee\'f8\'e5\'e2\'e0\'ff
+\par \f0\tab Basis node: 0
+\par \tab Fixed voltage: 0
+\par \tab Voltage: 0
+\par \tab P: 0
+\par \tab Q: 0
+\par \tab CircleTag: 13
+\par \tab CircleLeft: 433
+\par \tab CircleTop: 779
+\par \tab Name: \f1\'cf\'d1 \'c4\'ee\'f0\'ee\'e6\'ed\'e0\'ff
+\par \f0\tab Basis node: 0
+\par \tab Fixed voltage: 0
+\par \tab Voltage: 0
+\par \tab P: 0
+\par \tab Q: 0
+\par \tab CircleTag: 14
+\par \tab CircleLeft: 426
+\par \tab CircleTop: 618
+\par \tab Name: \f1\'cf\'d1 \'ca\'ee\'eb\'e5\'f1\'ed\'e8\'ea\'ee\'e2\'ee
+\par \f0\tab Basis node: 0
+\par \tab Fixed voltage: 0
+\par \tab Voltage: 0
+\par \tab P: 0
+\par \tab Q: 0
+\par \tab CircleTag: 15
+\par \tab CircleLeft: 108
+\par \tab CircleTop: 922
+\par \tab Name: \f1\'cf\'d1 \'d0\'e0\'e7\'e4\'ee\'eb\'fc\'e5
+\par \f0\tab Basis node: 0
+\par \tab Fixed voltage: 0
+\par \tab Voltage: 0
+\par \tab P: 0
+\par \tab Q: 0
+\par \tab CircleTag: 16
+\par \tab CircleLeft: 417
+\par \tab CircleTop: 930
+\par \tab Name: \f1\'cf\'d1 \'c0\'f0\'ec\'e8\'e7\'e0\'ed
+\par \f0\tab Basis node: 0
+\par \tab Fixed voltage: 0
+\par \tab Voltage: 0
+\par \tab P: 0
+\par \tab Q: 0
+\par \tab CircleTag: 17
+\par \tab CircleLeft: 644
+\par \tab CircleTop: 930
+\par \tab Name: \f1\'cf\'d1 \'c1\'e5\'f0\'e4\'fe\'e6\'fc\'e5
+\par \f0\tab Basis node: 0
+\par \tab Fixed voltage: 0
+\par \tab Voltage: 0
+\par \tab P: 0
+\par \tab Q: 0
+\par \tab CircleTag: 18
+\par \tab CircleLeft: 849
+\par \tab CircleTop: 932
+\par \tab Name: \f1\'cf\'d1 \'cd.\'cb\'ee\'ea\'f2\'e8
+\par \f0\tab Basis node: 0
+\par \tab Fixed voltage: 0
+\par \tab Voltage: 0
+\par \tab P: 0
+\par \tab Q: 0
+\par \tab CircleTag: 19
+\par \tab CircleLeft: 844
+\par \tab CircleTop: 698
+\par \tab Name: \f1\'cf\'d1 \'c1\'e5\'e7\'f0\'f3\'ea\'ee\'e2\'ee
+\par \f0\tab Basis node: 0
+\par \tab Fixed voltage: 0
+\par \tab Voltage: 0
+\par \tab P: 0
+\par \tab Q: 0
+\par \tab CircleTag: 20
+\par \tab CircleLeft: 691
+\par \tab CircleTop: 503
+\par \tab Name: \f1\'cf\'d1 \'ce\'ef\'e5\'ed\'ee\'e2\'ea\'e0
+\par \f0\tab Basis node: 0
+\par \tab Fixed voltage: 0
+\par \tab Voltage: 0
+\par \tab P: 0
+\par \tab Q: 0
+\par \tab CircleTag: 21
+\par \tab CircleLeft: 635
+\par \tab CircleTop: 673
+\par \tab Name: \f1\'cf\'d1 \'cd\'e8\'ea\'ee\'eb\'fc\'f1\'ea\'e0\'ff
+\par \f0\tab Basis node: 0
+\par \tab Fixed voltage: 0
+\par \tab Voltage: 0
+\par \tab P: 0
+\par \tab Q: 0
+\par \tab CircleTag: 22
+\par \tab CircleLeft: 567
+\par \tab CircleTop: 855
+\par \tab Name: \f1\'cf\'d1 \'cf\'e5\'f2\'f3\'f5\'ee\'e2\'ee
+\par \f0\tab Basis node: 0
+\par \tab Fixed voltage: 0
+\par \tab Voltage: 0
+\par \tab P: 0
+\par \tab Q: 0
+\par \tab CircleTag: 23
+\par \tab CircleLeft: 545
+\par \tab CircleTop: 627
+\par \tab Name: \f1\'ce\'f2\'ef\'e0\'e9\'ea\'e0_1
+\par \f0\tab Basis node: 0
+\par \tab Fixed voltage: 0
+\par \tab Voltage: 0
+\par \tab P: 0
+\par \tab Q: 0
+\par \tab CircleTag: 24
+\par \tab CircleLeft: 164
+\par \tab CircleTop: 135
+\par \tab Name: \f1\'ce\'f2\'ef\'e0\'e9\'ea\'e0 2
+\par \f0\tab Basis node: 0
+\par \tab Fixed voltage: 0
+\par \tab Voltage: 0
+\par \tab P: 0
+\par \tab Q: 0
+\par \tab CircleTag: 25
+\par \tab CircleLeft: 220
+\par \tab CircleTop: 232
+\par -------------
+\par Wires description:
+\par \tab NA: 7
+\par \tab NB: 8
+\par \tab PtAX: 665
+\par \tab PtAY: 315
+\par \tab PtBX: 897
+\par \tab PtBY: 255
+\par \tab r: 0,2688
+\par \tab x: 1,2012
+\par \tab g: 9,9456E-7
+\par \tab b: 2,9624E-5
+\par \tab Mark: 9
+\par \tab Length: 5,6
+\par \tab Number of chains: 2
+\par \tab OFF: 0
+\par \tab NA: 7
+\par \tab NB: 4
+\par \tab PtAX: 665
+\par \tab PtAY: 315
+\par \tab PtBX: 469
+\par \tab PtBY: 295
+\par \tab r: 2,208
+\par \tab x: 9,867
+\par \tab g: 2,0424E-6
+\par \tab b: 6,0835E-5
+\par \tab Mark: 9
+\par \tab Length: 23
+\par \tab Number of chains: 1
+\par \tab OFF: 0
+\par \tab NA: 3
+\par \tab NB: 10
+\par \tab PtAX: 133
+\par \tab PtAY: 466
+\par \tab PtBX: 274
+\par \tab PtBY: 553
+\par \tab r: 3,0622
+\par \tab x: 5,35885
+\par \tab g: 8,283E-8
+\par \tab b: 3,33579E-5
+\par \tab Mark: 3
+\par \tab Length: 12,55
+\par \tab Number of chains: 1
+\par \tab OFF: 0
+\par \tab NA: 10
+\par \tab NB: 11
+\par \tab PtAX: 274
+\par \tab PtAY: 553
+\par \tab PtBX: 208
+\par \tab PtBY: 714
+\par \tab r: 6,0512
+\par \tab x: 10,5896
+\par \tab g: 1,6368E-7
+\par \tab b: 6,59184E-5
+\par \tab Mark: 3
+\par \tab Length: 24,8
+\par \tab Number of chains: 1
+\par \tab OFF: 0
+\par \tab NA: 11
+\par \tab NB: 12
+\par \tab PtAX: 208
+\par \tab PtAY: 714
+\par \tab PtBX: 334
+\par \tab PtBY: 836
+\par \tab r: 2,928
+\par \tab x: 5,124
+\par \tab g: 7,92E-8
+\par \tab b: 3,1896E-5
+\par \tab Mark: 3
+\par \tab Length: 12
+\par \tab Number of chains: 1
+\par \tab OFF: 0
+\par \tab NA: 12
+\par \tab NB: 13
+\par \tab PtAX: 334
+\par \tab PtAY: 836
+\par \tab PtBX: 473
+\par \tab PtBY: 764
+\par \tab r: 4,5384
+\par \tab x: 7,9422
+\par \tab g: 1,2276E-7
+\par \tab b: 4,94388E-5
+\par \tab Mark: 3
+\par \tab Length: 18,6
+\par \tab Number of chains: 1
+\par \tab OFF: 0
+\par \tab NA: 13
+\par \tab NB: 14
+\par \tab PtAX: 473
+\par \tab PtAY: 764
+\par \tab PtBX: 466
+\par \tab PtBY: 603
+\par \tab r: 4,91904
+\par \tab x: 8,60832
+\par \tab g: 1,33056E-7
+\par \tab b: 5,358528E-5
+\par \tab Mark: 3
+\par \tab Length: 20,16
+\par \tab Number of chains: 1
+\par \tab OFF: 0
+\par \tab NA: 5
+\par \tab NB: 14
+\par \tab PtAX: 483
+\par \tab PtAY: 459
+\par \tab PtBX: 466
+\par \tab PtBY: 603
+\par \tab r: 4,1724
+\par \tab x: 7,3017
+\par \tab g: 1,1286E-7
+\par \tab b: 4,54518E-5
+\par \tab Mark: 3
+\par \tab Length: 17,1
+\par \tab Number of chains: 1
+\par \tab OFF: 0
+\par \tab NA: 3
+\par \tab NB: 15
+\par \tab PtAX: 133
+\par \tab PtAY: 466
+\par \tab PtBX: 148
+\par \tab PtBY: 907
+\par \tab r: 14,2496
+\par \tab x: 24,9368
+\par \tab g: 3,8544E-7
+\par \tab b: 0,0001552272
+\par \tab Mark: 3
+\par \tab Length: 58,4
+\par \tab Number of chains: 1
+\par \tab OFF: 0
+\par \tab NA: 15
+\par \tab NB: 16
+\par \tab PtAX: 148
+\par \tab PtAY: 907
+\par \tab PtBX: 457
+\par \tab PtBY: 915
+\par \tab r: 6,1
+\par \tab x: 10,675
+\par \tab g: 1,65E-7
+\par \tab b: 6,645E-5
+\par \tab Mark: 3
+\par \tab Length: 25
+\par \tab Number of chains: 1
+\par \tab OFF: 0
+\par \tab NA: 16
+\par \tab NB: 17
+\par \tab PtAX: 457
+\par \tab PtAY: 915
+\par \tab PtBX: 684
+\par \tab PtBY: 915
+\par \tab r: 9,15
+\par \tab x: 16,0125
+\par \tab g: 2,475E-7
+\par \tab b: 9,9675E-5
+\par \tab Mark: 3
+\par \tab Length: 37,5
+\par \tab Number of chains: 1
+\par \tab OFF: 0
+\par \tab NA: 17
+\par \tab NB: 18
+\par \tab PtAX: 684
+\par \tab PtAY: 915
+\par \tab PtBX: 889
+\par \tab PtBY: 917
+\par \tab r: 15,15728
+\par \tab x: 26,52524
+\par \tab g: 4,09992E-7
+\par \tab b: 0,00016511496
+\par \tab Mark: 3
+\par \tab Length: 62,12
+\par \tab Number of chains: 1
+\par \tab OFF: 0
+\par \tab NA: 18
+\par \tab NB: 19
+\par \tab PtAX: 889
+\par \tab PtAY: 917
+\par \tab PtBX: 884
+\par \tab PtBY: 683
+\par \tab r: 22,46508
+\par \tab x: 39,31389
+\par \tab g: 6,07662E-7
+\par \tab b: 0,00024472206
+\par \tab Mark: 3
+\par \tab Length: 92,07
+\par \tab Number of chains: 1
+\par \tab OFF: 0
+\par \tab NA: 19
+\par \tab NB: 9
+\par \tab PtAX: 884
+\par \tab PtAY: 683
+\par \tab PtBX: 904
+\par \tab PtBY: 427
+\par \tab r: 9,86377
+\par \tab x: 14,22218
+\par \tab g: 0
+\par \tab b: 8,556247E-5
+\par \tab Mark: 2
+\par \tab Length: 32,77
+\par \tab Number of chains: 1
+\par \tab OFF: 0
+\par \tab NA: 9
+\par \tab NB: 20
+\par \tab PtAX: 904
+\par \tab PtAY: 427
+\par \tab PtBX: 731
+\par \tab PtBY: 488
+\par \tab r: 4,9776
+\par \tab x: 8,7108
+\par \tab g: 1,3464E-7
+\par \tab b: 5,42232E-5
+\par \tab Mark: 3
+\par \tab Length: 20,4
+\par \tab Number of chains: 1
+\par \tab OFF: 0
+\par \tab NA: 20
+\par \tab NB: 21
+\par \tab PtAX: 731
+\par \tab PtAY: 488
+\par \tab PtBX: 675
+\par \tab PtBY: 658
+\par \tab r: 3,965
+\par \tab x: 6,93875
+\par \tab g: 1,0725E-7
+\par \tab b: 4,31925E-5
+\par \tab Mark: 3
+\par \tab Length: 16,25
+\par \tab Number of chains: 1
+\par \tab OFF: 0
+\par \tab NA: 21
+\par \tab NB: 22
+\par \tab PtAX: 675
+\par \tab PtAY: 658
+\par \tab PtBX: 607
+\par \tab PtBY: 840
+\par \tab r: 5,7706
+\par \tab x: 10,09855
+\par \tab g: 1,5609E-7
+\par \tab b: 6,28617E-5
+\par \tab Mark: 3
+\par \tab Length: 23,65
+\par \tab Number of chains: 1
+\par \tab OFF: 0
+\par \tab NA: 9
+\par \tab NB: 22
+\par \tab PtAX: 904
+\par \tab PtAY: 427
+\par \tab PtBX: 607
+\par \tab PtBY: 840
+\par \tab r: 11,99992
+\par \tab x: 20,99986
+\par \tab g: 3,24588E-7
+\par \tab b: 0,00013072044
+\par \tab Mark: 3
+\par \tab Length: 49,18
+\par \tab Number of chains: 1
+\par \tab OFF: 0
+\par \tab NA: 22
+\par \tab NB: 23
+\par \tab PtAX: 607
+\par \tab PtAY: 840
+\par \tab PtBX: 585
+\par \tab PtBY: 612
+\par \tab r: 8,8572
+\par \tab x: 15,5001
+\par \tab g: 2,3958E-7
+\par \tab b: 9,64854E-5
+\par \tab Mark: 3
+\par \tab Length: 36,3
+\par \tab Number of chains: 1
+\par \tab OFF: 0
+\par \tab NA: 22
+\par \tab NB: 5
+\par \tab PtAX: 607
+\par \tab PtAY: 840
+\par \tab PtBX: 483
+\par \tab PtBY: 459
+\par \tab r: 10,4432
+\par \tab x: 18,2756
+\par \tab g: 2,8248E-7
+\par \tab b: 0,0001137624
+\par \tab Mark: 3
+\par \tab Length: 42,8
+\par \tab Number of chains: 1
+\par \tab OFF: 0
+\par \tab NA: 23
+\par \tab NB: 5
+\par \tab PtAX: 585
+\par \tab PtAY: 612
+\par \tab PtBX: 483
+\par \tab PtBY: 459
+\par \tab r: 2,5376
+\par \tab x: 4,4408
+\par \tab g: 6,864E-8
+\par \tab b: 2,76432E-5
+\par \tab Mark: 3
+\par \tab Length: 10,4
+\par \tab Number of chains: 1
+\par \tab OFF: 0
+\par \tab NA: 0
+\par \tab NB: 24
+\par \tab PtAX: 67
+\par \tab PtAY: 165
+\par \tab PtBX: 204
+\par \tab PtBY: 120
+\par \tab r: 3,84
+\par \tab x: 17,16
+\par \tab g: 3,552E-6
+\par \tab b: 0,0001058
+\par \tab Mark: 9
+\par \tab Length: 40
+\par \tab Number of chains: 1
+\par \tab OFF: 0
+\par \tab NA: 0
+\par \tab NB: 25
+\par \tab PtAX: 67
+\par \tab PtAY: 165
+\par \tab PtBX: 260
+\par \tab PtBY: 217
+\par \tab r: 3,84
+\par \tab x: 17,16
+\par \tab g: 3,552E-6
+\par \tab b: 0,0001058
+\par \tab Mark: 9
+\par \tab Length: 40
+\par \tab Number of chains: 1
+\par \tab OFF: 0
+\par \tab NA: 24
+\par \tab NB: 2
+\par \tab PtAX: 204
+\par \tab PtAY: 120
+\par \tab PtBX: 176
+\par \tab PtBY: 312
+\par \tab r: 9,6E-5
+\par \tab x: 0,000429
+\par \tab g: 8,88E-11
+\par \tab b: 2,645E-9
+\par \tab Mark: 9
+\par \tab Length: 0,001
+\par \tab Number of chains: 1
+\par \tab OFF: 0
+\par \tab NA: 25
+\par \tab NB: 2
+\par \tab PtAX: 260
+\par \tab PtAY: 217
+\par \tab PtBX: 176
+\par \tab PtBY: 312
+\par \tab r: 9,6E-5
+\par \tab x: 0,000429
+\par \tab g: 8,88E-11
+\par \tab b: 2,645E-9
+\par \tab Mark: 9
+\par \tab Length: 0,001
+\par \tab Number of chains: 1
+\par \tab OFF: 0
+\par \tab NA: 24
+\par \tab NB: 7
+\par \tab PtAX: 204
+\par \tab PtAY: 120
+\par \tab PtBX: 665
+\par \tab PtBY: 315
+\par \tab r: 8,0256
+\par \tab x: 35,8644
+\par \tab g: 7,42368E-6
+\par \tab b: 0,000221122
+\par \tab Mark: 9
+\par \tab Length: 83,6
+\par \tab Number of chains: 1
+\par \tab OFF: 0
+\par \tab NA: 25
+\par \tab NB: 4
+\par \tab PtAX: 260
+\par \tab PtAY: 217
+\par \tab PtBX: 469
+\par \tab PtBY: 295
+\par \tab r: 4,3776
+\par \tab x: 19,5624
+\par \tab g: 4,04928E-6
+\par \tab b: 0,000120612
+\par \tab Mark: 9
+\par \tab Length: 45,6
+\par \tab Number of chains: 1
+\par \tab OFF: 0
+\par -------------
+\par Transformers description:
+\par \tab NA: 2
+\par \tab NB: 3
+\par \tab PtAX: 176
+\par \tab PtAY: 312
+\par \tab PtBX: 133
+\par \tab PtBY: 466
+\par \tab r: 0
+\par \tab x: 0
+\par \tab g: 0
+\par \tab b: 0
+\par \tab ka: 0
+\par \tab kr: 0
+\par \tab Mark: 0
+\par \tab Number of transformers: 0
+\par \tab Number of chosen tap: 0
+\par \tab OFF: 0
+\par \tab NA: 6
+\par \tab NB: 7
+\par \tab PtAX: 667
+\par \tab PtAY: 165
+\par \tab PtBX: 665
+\par \tab PtBY: 315
+\par \tab r: 0
+\par \tab x: 0
+\par \tab g: 0
+\par \tab b: 0
+\par \tab ka: 0
+\par \tab kr: 0
+\par \tab Mark: 0
+\par \tab Number of transformers: 0
+\par \tab Number of chosen tap: 0
+\par \tab OFF: 0
+\par \tab NA: 8
+\par \tab NB: 9
+\par \tab PtAX: 897
+\par \tab PtAY: 255
+\par \tab PtBX: 904
+\par \tab PtBY: 427
+\par \tab r: 0
+\par \tab x: 0
+\par \tab g: 0
+\par \tab b: 0
+\par \tab ka: 0
+\par \tab kr: 0
+\par \tab Mark: 0
+\par \tab Number of transformers: 0
+\par \tab Number of chosen tap: 0
+\par \tab OFF: 0
+\par \tab NA: 4
+\par \tab NB: 5
+\par \tab PtAX: 469
+\par \tab PtAY: 295
+\par \tab PtBX: 483
+\par \tab PtBY: 459
+\par \tab r: 0
+\par \tab x: 0
+\par \tab g: 0
+\par \tab b: 0
+\par \tab ka: 0
+\par \tab kr: 0
+\par \tab Mark: 0
+\par \tab Number of transformers: 0
+\par \tab Number of chosen tap: 0
+\par \tab OFF: 0
+\par 
+\par }
+ 
